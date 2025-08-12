@@ -1,0 +1,48 @@
+{
+  "documents": [
+    {
+      "id": "1",
+      "language": "en",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.98,
+        "neutral": 0.01,
+        "negative": 0.01
+      },
+      "sentences": [
+        {
+          "text": "I love using Azure Cognitive Services for text analysis.",
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.99,
+            "neutral": 0.01,
+            "negative": 0.00
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "language": "en",
+      "sentiment": "negative",
+      "confidenceScores": {
+        "positive": 0.10,
+        "neutral": 0.05,
+        "negative": 0.85
+      },
+      "sentences": [
+        {
+          "text": "The API response time is too slow.",
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.05,
+            "negative": 0.90
+          }
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "modelVersion": "2022-04-10"
+}
