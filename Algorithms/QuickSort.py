@@ -13,7 +13,8 @@ def partition(arr, low, high):
     
     #choose the pivot
     pivot = arr[high]
-    print(f"First pivot is: {pivot}")
+    print("--------------------")
+    print(f"Pivot value is: {pivot}")
     
     # index of smaller element and indicates the right position of pivot found so far.
     i = low - 1
@@ -21,13 +22,23 @@ def partition(arr, low, high):
     
     # traverse arr[low..high] and move all smaller elements to the left side.
     # Elements from low to i are smaller after every iteration.
+    print(f"New Array at initial stage is: {arr}")
     for j in range(low, high):
+        print(f"    Jth element is: {arr[j]}")
         if arr[j] < pivot:
             i += 1
+            print(" Jth elent is less than pivot so swaping")
             swap(arr=arr, i=i, j=j)
+        else:
+            print(" Jth element is bigger than pivot")
+        print(f"Current array is: {arr}")
     
     # move pivot after smaller elements and return its position
+    print("Moving pivot")
+    print(f"low value is: {i+1}")
+    print(f"high value is: {high}")
     swap(arr=arr, i=i+1, j=high)
+    print(f"Array after changing pivot: {arr}")
     return i + 1
             
             
