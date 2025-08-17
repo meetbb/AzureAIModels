@@ -1,2 +1,60 @@
-# AzureAIModels
-This Repository is entirely based on the Roadmap to master Azure AI models starting from Python basics to advanced.
+# 🚀 Python Playground: LeetCode, ML & Azure AI
+Welcome to my Python repository! 🐍
+This repo is a collection of Python solutions, custom ML models, and Azure AI experiments that I’ve built while practicing and learning.
+
+📂 Repository Contents
+
+1️⃣ LeetCode Solutions
+ - A large collection of Python programs solving popular LeetCode problems.
+ - Covers topics like:
+     - Arrays & Strings
+     - HashMaps & Sets
+     - Linked Lists
+     - Trees & Graphs
+     - Dynamic Programming
+     - Backtracking & Recursion
+ - Clean, efficient, and well-documented solutions.
+
+2️⃣ Custom Machine Learning Models
+ - Implementations of ML algorithms from scratch in Python.
+ - Covers:
+     - Linear & Logistic Regression
+     - Decision Trees
+     - Clustering (K-means, DBSCAN)
+     - Neural Network basics (feed-forward, backpropagation)
+ - Helps in understanding the mathematical intuition behind ML.
+
+3️⃣ Azure AI & Applied AI Models
+ - Python scripts & projects integrating Azure AI services (e.g., Computer Vision, NLP).
+ - Custom pipelines to test AI in real-world use cases.
+ - Example use cases:
+     - Document summarization
+     - Image recognition & classification
+     - Text analytics
+
+4️⃣ Algorithms in Python
+
+- Classic algorithms implemented in Python.
+- Categories include:
+    - Sorting & Searching
+    - Graph Algorithms (BFS, DFS, Dijkstra)
+    - Dynamic Programming patterns
+    - String matching & parsing
+
+🛠️ Tech Stack
+ - Python 3.9+
+ - Jupyter Notebook / VS Code for development
+ - Azure AI SDKs for cloud AI models
+ - NumPy / Pandas / Scikit-learn / TensorFlow (where needed)
+
+🌟 Why This Repo?
+ - To track my progress in LeetCode & AI journey
+ - To practice coding interviews and system design
+ - To explore ML & Azure AI by building hands-on projects
+ - To share knowledge with the community
+
+📈 Roadmap
+ - Add more LeetCode daily challenges
+ - Expand ML models from scratch (CNN, RNN)
+ - Add Azure Cognitive Services integration examples
+ - Write unit tests for all major algorithms
