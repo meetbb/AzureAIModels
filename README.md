@@ -58,3 +58,9 @@ This repo is a collection of Python solutions, custom ML models, and Azure AI ex
  - Expand ML models from scratch (CNN, RNN)
  - Add Azure Cognitive Services integration examples
  - Write unit tests for all major algorithms
+
+# 🚀 LeetCode Progress Tracker
+
+| Date       | Programs                                                                                             | Notes                   |
+|------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| 2025-08-19 | <ul><li>[LongestConsecutiveSequence.py](LeetCodeProblems/LongestConsecutiveSequence.py)</li><li>[ValidPalindrome.py](LeetCodeProblems/ValidPalindrome.py)</li><li>[TwoSumSortedArray.py](LeetCodeProblems/TwoSumSortedArray.py)</li></ul> | Practiced 3 problems |
