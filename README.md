@@ -64,3 +64,4 @@ This repo is a collection of Python solutions, custom ML models, and Azure AI ex
 | Date       | Programs                                                                                             | Notes                   |
 |------------|------------------------------------------------------------------------------------------------------|-------------------------|
 | 2025-08-19 | <ul><li>[LongestConsecutiveSequence.py](LeetCodeProblems/LongestConsecutiveSequence.py)</li><li>[ValidPalindrome.py](LeetCodeProblems/ValidPalindrome.py)</li><li>[TwoSumSortedArray.py](LeetCodeProblems/TwoSumSortedArray.py)</li></ul> | Practiced 3 problems |
+| 2025-08-20 | <ul><li>[ThreeSum.py](LeetCodeProblems/ThreeSum.py)</li><li>[ContainerWithMostWater.py](LeetCodeProblems/ContainerWithMostWater.py)</li></ul> | Practiced 2 problems with Two Pointers Solution |
