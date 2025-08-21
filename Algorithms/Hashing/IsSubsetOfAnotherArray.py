@@ -13,6 +13,7 @@ Example 3:
     Output: false
 """
 def isSubset(a, b):
+    """This function will have the Time Complexity: O(m + n) and Auxiliary Space: O(m)"""
     # Create a hash set and insert all elements of arr1
     hash_set = set(a)
     
