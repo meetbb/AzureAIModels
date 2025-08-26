@@ -18,7 +18,7 @@ Approach: Use two pointers solution
 from typing import List
 
 def trapRainWater(height: List[int]) -> int:
-    """Python program to train rain water."""
+    """Python program to trap rain water."""
     left = 0
     right = len(height) - 1
     
