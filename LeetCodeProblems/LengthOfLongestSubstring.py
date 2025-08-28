@@ -16,6 +16,8 @@ Example 3:
     Output: 3
     Explanation: The answer is "wke", with the length of 3.
     Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+
+In video, you can hear the explanation at → 03:38
 """
 def lengthOfLongestSubstring(s: str) -> int:
     """Function to find the length of Longest Substring"""
