@@ -68,3 +68,4 @@ This repo is a collection of Python solutions, custom ML models, and Azure AI ex
 | 2025-08-21 | <ul><li>[LengthOfLongestSubstring.py](LeetCodeProblems/LengthOfLongestSubstring.py)</li></ul> | Solved 1 problem on Leetcode, but practiced couple of programs of hashing technique. |
 | 2025-08-26 | <ul><li>[TrappingRainWater.py](LeetCodeProblems/TrappingRainWater.py)</li></ul> | Solved 1 hard problem on Leetcode, but practiced couple of programs of hashing technique. |
 | 2025-08-28 | <ul><li>[BestTimeToBuyAndSellStocks.py](LeetCodeProblems/BestTimeToBuyAndSellStocks.py)</li><li>[LongestCharReplacement.py](LeetCodeProblems/LongestCharReplacement.py)</li></ul> | Practiced 2 problems with Two Pointers Solution |
+| 2025-08-30 | <ul><li>[CheckPermutation.py](LeetCodeProblems/CheckPermutation.py)</li></ul> | Solved 1 medium problem on Leetcode using Sliding window technique. Program is simple but worth taking a second look.|
